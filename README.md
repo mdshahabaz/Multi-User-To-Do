@@ -16,4 +16,10 @@
   * Username is kept unique for each user and hence, no duplication of username is allowed.
   * Password should contain combination of Upper letter, Lower letter, Special symbols, and numerals.
 
+# Updating the information
+![Adding-ToDo's](https://user-images.githubusercontent.com/81280603/149089463-8cad487d-c0f5-4c7e-8d76-2a6b01a81933.png)
+
+ * To perform updations such as changing the status of the todo task i.e., to change a task's status from pending to completed or vice versa, it is possible with ease by just clicking the action icons present. 
+ * The status gets changed to desired one.
+
 
