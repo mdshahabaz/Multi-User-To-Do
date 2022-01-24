@@ -21,5 +21,6 @@
 
  * To perform updations such as changing the status of the todo task i.e., to change a task's status from pending to completed or vice versa, it is possible with ease by just clicking the action icons present. 
  * The status gets changed to desired one.
+ * The status bar is dynamic one and gets changed to vice-versa along with the clicks.
 
 
